@@ -22,6 +22,6 @@
   "homepage": "https://github.com/Tr15tan01/chat-v003#readme",
   "dependencies": {
     "express": "^4.17.1",
-    "socket.io": "^2.3.0"
+    "socket.io": "^2.2.0"
   }
 }
